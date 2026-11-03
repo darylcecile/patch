@@ -1,0 +1,9 @@
+{
+  "name": "Patch",
+  "identifier": "com.darylcecile.patch",
+  "version": "0.1.0",
+  "resourcesExclude": ["fonts/*.ttf"],
+  "macos": {
+    "minimumSystemVersion": "13.0"
+  }
+}
